@@ -1,1 +1,1 @@
-export {default as First} from './first.jsx';
+export {First} from './first.jsx';
