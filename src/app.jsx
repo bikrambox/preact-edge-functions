@@ -1,12 +1,13 @@
 // src/App.js
 import { h } from 'preact';
+import {first} from './components'
 
 const App = () => {
   return (
 <>
 <Head/>
 <body>
-  <h1>Hello, World!</h1>
+<first/>
 </body>
 </>
   );
