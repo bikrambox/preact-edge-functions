@@ -36,3 +36,4 @@ export default class AuthService {
 
 const authService = new AuthService();
 authService.init();
+export default authService;
