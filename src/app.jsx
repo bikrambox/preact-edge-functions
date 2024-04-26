@@ -1,6 +1,6 @@
 // src/App.js
 import { h, render } from 'preact';
-import First from './components/first';
+import First from './components';
 
 const App = () => {
   return (
