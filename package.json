@@ -12,5 +12,9 @@
     "preact": "^10.10.1",
     "preact-render-to-string": "^5.2.1",
     "sirv": "^2.0.2"
+  },
+  "dependencies": {
+    "@auth0/auth0-react": "^2.2.4",
+    "jwt-decode": "^4.0.0"
   }
 }
